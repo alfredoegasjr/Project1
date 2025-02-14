@@ -14,5 +14,3 @@ gcc -o wcat src/wcat.c -Wall
 
 
 
-PD:
-Have fun! :)
